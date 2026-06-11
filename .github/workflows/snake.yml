@@ -2,11 +2,15 @@ name: Generate Snake 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # lets you trigger it manually from Actions tab
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # manual trigger from Actions tab
   push:
     branches:
       - main
+
+# ── Fix: grant write access so the job can push to the output branch ─────────
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -14,7 +18,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake (dark + light)
+      - name: Generate snake SVGs (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,10 +26,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # ── Fix: plain git push — no Node.js dependency, won't rot ─────────────
+      - name: Push SVGs to output branch
+        run: |
+          cd dist
+          git init
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: refresh snake animation [skip ci]"
+          git push --force \
+            "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            HEAD:output
