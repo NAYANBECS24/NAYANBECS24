@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## ⚡ `SYSTEM BOOTING...`
+# ⚡ `SYSTEM BOOTING...`
 
 </div>
 
@@ -52,7 +52,11 @@ current_mode:
 
 ---
 
-## 🧠 About Me
+<div align="center">
+
+# 🧠 About Me
+
+</div>
 
 I am a **Cyber Security engineering student** and a builder working at the intersection of **Artificial Intelligence, Cybersecurity, Full-Stack Development, GenAI, Blockchain, Federated Learning, Edge AI, and Privacy-Preserving Systems**.
 
@@ -60,23 +64,52 @@ I build systems that have clear architecture, real-world problem-solving, securi
 
 My main goal is to create technology that is:
 
-* 🔐 Secure by design
-* 🤖 AI-first
-* 🌍 Useful for real people
-* 🧩 Modular and scalable
-* ⚡ Fast to prototype
-* 🛡️ Privacy-preserving
-* 🚀 Ready for hackathons, research, and real-world deployment
+<table>
+<tr>
+<td align="center" width="14%">
+<h3>🔐</h3>
+<b>Secure by design</b>
+</td>
+<td align="center" width="14%">
+<h3>🤖</h3>
+<b>AI-first</b>
+</td>
+<td align="center" width="14%">
+<h3>🌍</h3>
+<b>Useful for real people</b>
+</td>
+<td align="center" width="14%">
+<h3>🧩</h3>
+<b>Modular and scalable</b>
+</td>
+<td align="center" width="14%">
+<h3>⚡</h3>
+<b>Fast to prototype</b>
+</td>
+<td align="center" width="14%">
+<h3>🛡️</h3>
+<b>Privacy-preserving</b>
+</td>
+<td align="center" width="14%">
+<h3>🚀</h3>
+<b>Research-ready</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧬 Developer DNA
+<div align="center">
+
+# 🧬 Developer DNA
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔭 What I Build
+## 🔭 What I Build
 
 * AI-powered security systems
 * GenAI education platforms
@@ -88,9 +121,9 @@ My main goal is to create technology that is:
 * Real-time AI detection systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ How I Think
+## ⚙️ How I Think
 
 * Problem first, technology second
 * Build working prototypes fast
@@ -106,7 +139,32 @@ My main goal is to create technology that is:
 
 ---
 
-## 🏆 Hall of Fame
+<div align="center">
+
+# 🧭 GitHub Command Center
+
+</div>
+
+```txt
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         NAYANBECS24 / COMMAND CENTER                         │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  Primary Direction     : AI Security + GenAI + Full-Stack Systems            │
+│  Product Style         : Prototype-first, impact-focused, research-driven    │
+│  Security Mindset      : Privacy, auditability, trust, responsible AI        │
+│  Favorite Build Type   : AI systems with real-world use cases                │
+│  Public Profile Goal   : Show projects like a developer portfolio, not CV    │
+│  Current Priority      : Strong READMEs, demos, clean repos, working builds  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+# 🏆 Hall of Fame
+
+</div>
 
 <div align="center">
 
@@ -129,7 +187,11 @@ My main goal is to create technology that is:
 
 ---
 
-## 📜 Published Patent
+<div align="center">
+
+# 📜 Published Patent
+
+</div>
 
 <div align="center">
 
@@ -155,7 +217,11 @@ My main goal is to create technology that is:
 
 ---
 
+<div align="center">
+
 # 🚀 Flagship Project Universe
+
+</div>
 
 <details open>
 <summary><b>🧠 PROJECT SUTRADHAR — Contextual GenAI Tutor for Bharat</b></summary>
@@ -207,6 +273,10 @@ WhatsApp / SMS / Low-Bandwidth Delivery
 ![Wav2Lip](https://img.shields.io/badge/Wav2Lip-7B2FBE?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
+### 📌 Build Value
+
+SUTRADHAR is not just an AI tutor idea. It is an education delivery system designed around **local context, regional language, low-bandwidth access, and learner-friendly explanation**.
+
 </details>
 
 ---
@@ -253,6 +323,10 @@ Blockchain-Based Judicial Audit Trail
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain_Audit-F7931A?style=flat-square)
 
+### 📌 Build Value
+
+TOR Sentinel focuses on cyber investigation support while preserving privacy boundaries, making it useful for responsible cybercrime intelligence research.
+
 </details>
 
 ---
@@ -296,6 +370,10 @@ Security Decision Layer
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 
+### 📌 Build Value
+
+AEGIS is designed around the idea that modern GenAI systems need guardrails not only at prompt level, but also at dependency, runtime, and threat-intelligence layers.
+
 </details>
 
 ---
@@ -336,6 +414,10 @@ Real-Time Dashboard
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+### 📌 Build Value
+
+Q-Shield explores early ransomware detection using behavior signals before damage begins, combining system security with quantum-classical experimentation.
 
 </details>
 
@@ -382,6 +464,10 @@ Sovereign DeFi Access
 ![Circom](https://img.shields.io/badge/Circom-FF4500?style=flat-square)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square\&logo=polygon\&logoColor=white)
 
+### 📌 Build Value
+
+SOVARTH explores decentralized finance as a trust layer for identity, assets, and credit access in underserved communities.
+
 </details>
 
 ---
@@ -427,6 +513,10 @@ Risk Score + Alert
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![TinyML](https://img.shields.io/badge/TinyML-00ACC1?style=flat-square)
 
+### 📌 Build Value
+
+EchoShield focuses on protecting users from voice-based fraud in a world where AI-generated voices are becoming more realistic.
+
 </details>
 
 ---
@@ -459,11 +549,19 @@ Privacy-Safe Output
 * Flask
 * Tkinter
 
+### 📌 Build Value
+
+ID Masker is built for privacy-first document sharing, helping users protect sensitive identity information before upload, storage, or public sharing.
+
 </details>
 
 ---
 
+<div align="center">
+
 # 📦 Full Project Arsenal
+
+</div>
 
 <div align="center">
 
@@ -491,7 +589,74 @@ Privacy-Safe Output
 
 ---
 
+<div align="center">
+
+# 🧩 Featured Repository Board
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 AI + GenAI
+
+| Repository Idea        | Purpose                                |
+| ---------------------- | -------------------------------------- |
+| `Project-SUTRADHAR`    | Contextual GenAI tutor for Bharat      |
+| `NutriLens-AI`         | Food and health coaching app           |
+| `BharatRealEstateAI`   | RAG-based property discovery           |
+| `Agentic-AI-Workflows` | Automation and multi-agent experiments |
+
+</td>
+<td width="50%" valign="top">
+
+## 🔐 Cybersecurity + Privacy
+
+| Repository Idea   | Purpose                                     |
+| ----------------- | ------------------------------------------- |
+| `TOR-Sentinel`    | Privacy-preserving TOR traffic intelligence |
+| `EchoShield`      | AI voice deepfake and vishing defense       |
+| `ID-Masker`       | PII detection and redaction tool            |
+| `AEGIS-Guardrail` | GenAI security guardrail system             |
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+## 🌐 Full-Stack Products
+
+| Repository Idea       | Purpose                             |
+| --------------------- | ----------------------------------- |
+| `Result-Analyzer`     | Academic result management platform |
+| `JobDham`             | Job portal product                  |
+| `Eduooze-Banking`     | Banking edtech platform             |
+| `FullStack-Templates` | Reusable project templates          |
+
+</td>
+<td width="50%" valign="top">
+
+## 🧪 Research + Experimental
+
+| Repository Idea       | Purpose                                |
+| --------------------- | -------------------------------------- |
+| `Q-Shield`            | Quantum-classical ransomware detection |
+| `SOVARTH`             | Cardano DeFi and DID system            |
+| `GridWeaver`          | Energy mesh system concept             |
+| `TinyML-Security-Lab` | Edge AI security experiments           |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 # 🛠️ Tech Arsenal
+
+</div>
 
 <div align="center">
 
@@ -555,7 +720,11 @@ Privacy-Safe Output
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Analytics
+
+</div>
 
 <div align="center">
 
@@ -575,7 +744,11 @@ Privacy-Safe Output
 
 ---
 
+<div align="center">
+
 # 📈 Contribution Activity
+
+</div>
 
 <div align="center">
 
@@ -585,9 +758,9 @@ Privacy-Safe Output
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
+
+# 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAYANBECS24/NAYANBECS24/output/github-contribution-grid-snake-dark.svg">
@@ -601,7 +774,11 @@ Privacy-Safe Output
 
 ---
 
+<div align="center">
+
 # 🎯 Currently Building
+
+</div>
 
 ```python
 class Nayan2026:
@@ -648,7 +825,11 @@ print(me.philosophy())
 
 ---
 
+<div align="center">
+
 # 🌐 Live Deployments
+
+</div>
 
 <div align="center">
 
@@ -662,7 +843,11 @@ print(me.philosophy())
 
 ---
 
+<div align="center">
+
 # 🧭 Build Philosophy
+
+</div>
 
 ```txt
 ┌──────────────────────────────────────────────────────────────┐
@@ -679,7 +864,11 @@ print(me.philosophy())
 
 ---
 
+<div align="center">
+
 # 🗺️ Project Map
+
+</div>
 
 ```txt
 NAYANBECS24 PROJECT UNIVERSE
@@ -714,7 +903,108 @@ Blockchain / Web3
 
 ---
 
+<div align="center">
+
+# 🧪 Repository Standards I Follow
+
+</div>
+
+```txt
+Every strong repository should have:
+
+README.md
+Architecture Diagram
+Setup Instructions
+Tech Stack
+Features
+Screenshots
+Demo Video
+Folder Structure
+Environment Variables Example
+API Documentation
+Future Roadmap
+License
+Contribution Guide
+```
+
+---
+
+<div align="center">
+
+# 🧭 Learning Roadmap
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Currently Improving
+
+* Stronger ML model training workflows
+* Better GitHub repo documentation
+* Clean architecture diagrams
+* Real deployment pipelines
+* API design and backend structure
+* Cybersecurity research writing
+
+</td>
+<td width="50%" valign="top">
+
+## Next Focus
+
+* Cloud-native AI deployment
+* Agentic AI orchestration
+* Advanced RAG pipelines
+* On-device AI optimization
+* Security automation
+* Research paper-style project documentation
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🤝 Collaboration Zone
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+## 🔬 Research
+
+Open to research-based collaboration in AI, cybersecurity, GenAI, privacy-preserving systems, and decentralized identity.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+## 🚀 Hackathons
+
+Interested in high-impact hackathons where the idea can become a working prototype with strong technical storytelling.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+## 🌐 Products
+
+Open to building real-world full-stack products, AI tools, automation systems, and security-focused platforms.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 # 🤝 Connect With Me
+
+</div>
 
 <div align="center">
 
