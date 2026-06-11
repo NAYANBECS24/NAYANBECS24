@@ -1524,7 +1524,7 @@ Open to building real-world full-stack products, AI tools, automation systems, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nayan-nayan)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-nayan-69069233b/)
 [![GitHub](https://img.shields.io/badge/GitHub-NAYANBECS24-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NAYANBECS24)
 [![Gmail](https://img.shields.io/badge/Gmail-nayankumar9987-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nayankumar9987@gmail.com)
 [![JobDham](https://img.shields.io/badge/JobDham.in-00D9FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jobdham.in)
