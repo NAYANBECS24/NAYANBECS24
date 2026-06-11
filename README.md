@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00D9FF,100:7B2FBE&height=230&section=header&text=NAYAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Cybersecurity%20%7C%20Full-Stack%20%7C%20GenAI%20%7C%20Privacy-First%20Builder&descAlignY=56&descAlign=50&descColor=00D9FF&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00D9FF,100:7B2FBE&height=240&section=header&text=NAYAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Cybersecurity%20%7C%20Full-Stack%20%7C%20GenAI%20%7C%20Privacy-First%20Builder&descAlignY=56&descAlign=50&descColor=00D9FF&descSize=19"/>
 
 <br/>
 
@@ -14,9 +14,18 @@
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nayan-nayan)
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nayankumar9987@gmail.com)
 
+<br/>
+
+![](https://img.shields.io/badge/17%2B-Projects_Built-00D9FF?style=flat-square\&labelColor=0D1117)
+![](https://img.shields.io/badge/1-Patent_Published-7B2FBE?style=flat-square\&labelColor=0D1117)
+![](https://img.shields.io/badge/12%2B-Hackathon_Honours-00D9FF?style=flat-square\&labelColor=0D1117)
+![](https://img.shields.io/badge/3-Live_Products-7B2FBE?style=flat-square\&labelColor=0D1117)
+![](https://img.shields.io/badge/3-Active_Internships-00D9FF?style=flat-square\&labelColor=0D1117)
+![](https://img.shields.io/badge/2024–2028-B.E._CSE_Cyber_Security-7B2FBE?style=flat-square\&labelColor=0D1117)
+
 </div>
 
----
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 <div align="center">
 
@@ -32,6 +41,7 @@ identity:
   education  : "B.E. CSE Cyber Security @ AVIT, Chennai"
   location   : "Chennai, Tamil Nadu, India"
   focus      : "AI Security · GenAI · Privacy-Preserving Systems · Full-Stack Products"
+  status     : "🟢 ONLINE — Building, Learning, Shipping"
 
 mission:
   statement  : "Design secure, transparent, and socially impactful systems."
@@ -48,7 +58,11 @@ current_mode:
   building   : true
   shipping   : true
   improving  : always
+
+open_to      : ["Research Collabs", "Internships", "Hackathons", "AI/ML Projects"]
 ```
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 ---
 
@@ -162,6 +176,113 @@ My main goal is to create technology that is:
 
 <div align="center">
 
+# 🧠 Architecture Thinking
+
+</div>
+
+```txt
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                        HOW I DESIGN TECH SYSTEMS                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  01. Problem Layer       → What real-world pain does this solve?              │
+│  02. User Layer          → Who uses it and what is their flow?                │
+│  03. Data Layer          → What data enters, moves, transforms, and exits?    │
+│  04. Intelligence Layer  → Where does AI actually add value?                  │
+│  05. Security Layer      → What can go wrong and how do we prevent it?        │
+│  06. Interface Layer     → How will users understand and control the system?  │
+│  07. Deployment Layer    → How will it run outside my laptop?                 │
+│  08. Impact Layer        → How can it become useful beyond a demo?            │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+# 🧪 My Project Engineering Formula
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+## 01
+
+### Problem
+
+Start from a real problem, not from a random technology.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+## 02
+
+### Prototype
+
+Build the first working version as fast as possible.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+## 03
+
+### Secure
+
+Add privacy, safety, auditability, and responsible AI thinking.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+## 04
+
+### Scale
+
+Improve architecture, documentation, deployment, and usability.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚦 Current Roles & Active Missions
+
+</div>
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                      ACTIVE ROLES  —  JUNE 2026                                ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🔬  Summer Research Intern (Selected)                                         ║
+║      TATA Centre for AI & ML, NIT Tiruchirappalli                              ║
+║      Team Lead, PARTH — Project SUTRADHAR  [ May – Jul 2026 ]                  ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🤖  Agentic AI Intern                                                         ║
+║      Brain O Vision Solutions India Pvt. Ltd.  [ Jan 2026 – Present ]          ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🧪  R&D Intern  —  Campus Catalyst Program (CCIP 2026)                        ║
+║      Brain O Vision Solutions India Pvt. Ltd.  ID: BOV-CCIP-002               ║
+║      [ Feb 2026 – Present ]                                                    ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🛡️  Vice President  —  CYFENCE Cybersecurity Club, AVIT Chennai               ║
+║      [ 2026 – Present ]                                                        ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🌐  Google Ambassador + Innovation Ambassador (MIC & AICTE)                   ║
+║      [ 2025 – Present ]                                                        ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
 # 🏆 Hall of Fame
 
 </div>
@@ -182,6 +303,10 @@ My main goal is to create technology that is:
 |  ⚡  | **Leaderboard Score 95.24**                   | AMD Slingshot Regional Ideathon              | 2026 |
 |  🌟 | **Top 11 Finalist**                           | GIEC Peace Innovation Welfare Challenge      | 2026 |
 |  ⭐  | **Jury's Special Appreciation**               | INTELLECTION 2025                            | 2025 |
+|  🏅 | **2nd Rank — IdeaJam 2025**                   | National Level                               | 2025 |
+|  🏅 | **3rd Prize**                                 | Innovation Showcase 2K26                     | 2026 |
+| 🎖️ | **Qualifier — The Big Code 2026**             | Google                                       | 2026 |
+| 🎖️ | **Top 10 Innovation Champions**               | AVIT-CSE                                     | 2025 |
 
 </div>
 
@@ -565,25 +690,25 @@ ID Masker is built for privacy-first document sharing, helping users protect sen
 
 <div align="center">
 
-|  #  | Project                   | Domain             | Key Highlight                                                 |      Status     |
-| :-: | ------------------------- | ------------------ | ------------------------------------------------------------- | :-------------: |
-|  01 | 🧠 **Project SUTRADHAR**  | GenAI Education    | Hyper-local NCERT tutor, regional content, low-bandwidth mode |   🔬 Research   |
-|  02 | 🔐 **TOR Sentinel**       | Cybersecurity AI   | Federated learning, TOR intelligence, privacy-first           |     🏆 Award    |
-|  03 | ⚔️ **AEGIS**              | GenAI Security     | GhostGuard + Chimera dual-engine security platform            |   🚀 Prototype  |
-|  04 | ⚛️ **Q-Shield**           | Quantum Security   | Ransomware precognition through system-call rhythm            |   🚀 Prototype  |
-|  05 | 🌏 **SOVARTH**            | Cardano / Web3     | ZK credit, decentralized identity, sovereign finance          | 🌏 Top 112 Asia |
-|  06 | 📜 **ALCF**               | IoT Cryptography   | Published patent, ASCON + TinyML                              |    📜 Patent    |
-|  07 | 🎙️ **EchoShield**        | Audio Security     | Voice deepfake and vishing defense                            |     ✅ Built     |
-|  08 | 🌾 **AgriSmart 2.0**      | AgriTech AI        | Precision farming and market access                           |   🥇 1st Prize  |
-|  09 | 📊 **Result Analyzer**    | EdTech Full-Stack  | SGPA/CGPA, Excel upload, role-based portals                   |     🟢 Live     |
-|  10 | 💼 **JobDham.in**         | Job Portal         | Revenue-generating full-stack job platform                    |     🟢 Live     |
-|  11 | 🍱 **NutriLens**          | AI Health Coach    | Indian food recognition and GCP services                      |  🚀 Shortlisted |
-|  12 | 🏠 **BharatRealEstateAI** | PropTech AI        | RAG, 12 languages, emotion-aware matching                     |     ✅ Built     |
-|  13 | ⚡ **GridWeaver**          | Sustainable Energy | P2P mesh grid, fast blackout recovery                         |     ✅ Built     |
-|  14 | 🏥 **Sanjivani**          | HealthTech         | Offline-first health ecosystem, edge AI                       |     ✅ Built     |
-|  15 | 🚗 **SurakshaAI**         | Road Safety        | ZK proof-based challan dispute and accident prediction        |     ✅ Built     |
-|  16 | 🔏 **ID Masker**          | Privacy / GDPR     | PII detection and redaction                                   |     ✅ Built     |
-|  17 | ♻️ **BioForge Dustbin**   | Smart City         | AI waste segregation and biogas concept                       |   🧪 Prototype  |
+|  #  | Project                   | Domain             | Key Highlight                                                 |                         Status                        |
+| :-: | ------------------------- | ------------------ | ------------------------------------------------------------- | :---------------------------------------------------: |
+|  01 | 🧠 **Project SUTRADHAR**  | GenAI Education    | Hyper-local NCERT tutor, regional content, low-bandwidth mode |                      🔬 Research                      |
+|  02 | 🔐 **TOR Sentinel**       | Cybersecurity AI   | Federated learning, TOR intelligence, privacy-first           |                        🏆 Award                       |
+|  03 | ⚔️ **AEGIS**              | GenAI Security     | GhostGuard + Chimera dual-engine security platform            |                      🚀 Prototype                     |
+|  04 | ⚛️ **Q-Shield**           | Quantum Security   | Ransomware precognition through system-call rhythm            |                      🚀 Prototype                     |
+|  05 | 🌏 **SOVARTH**            | Cardano / Web3     | ZK credit, decentralized identity, sovereign finance          |                    🌏 Top 112 Asia                    |
+|  06 | 📜 **ALCF**               | IoT Cryptography   | Published patent, ASCON + TinyML                              |                       📜 Patent                       |
+|  07 | 🎙️ **EchoShield**        | Audio Security     | Voice deepfake and vishing defense                            |                        ✅ Built                        |
+|  08 | 🌾 **AgriSmart 2.0**      | AgriTech AI        | Precision farming and market access                           |                      🥇 1st Prize                     |
+|  09 | 📊 **Result Analyzer**    | EdTech Full-Stack  | SGPA/CGPA, Excel upload, role-based portals                   | 🟢 [Live](https://resultanalyzer.infinityfreeapp.com) |
+|  10 | 💼 **JobDham.in**         | Job Portal         | Revenue-generating full-stack job platform                    |             🟢 [Live](https://jobdham.in)             |
+|  11 | 🍱 **NutriLens**          | AI Health Coach    | Indian food recognition and GCP services                      |                     🚀 Shortlisted                    |
+|  12 | 🏠 **BharatRealEstateAI** | PropTech AI        | RAG, 12 languages, emotion-aware matching                     |                        ✅ Built                        |
+|  13 | ⚡ **GridWeaver**          | Sustainable Energy | P2P mesh grid, fast blackout recovery                         |                        ✅ Built                        |
+|  14 | 🏥 **Sanjivani**          | HealthTech         | Offline-first health ecosystem, edge AI                       |                        ✅ Built                        |
+|  15 | 🚗 **SurakshaAI**         | Road Safety        | ZK proof-based challan dispute and accident prediction        |                        ✅ Built                        |
+|  16 | 🔏 **ID Masker**          | Privacy / GDPR     | PII detection and redaction                                   |                        ✅ Built                        |
+|  17 | ♻️ **BioForge Dustbin**   | Smart City         | AI waste segregation and biogas concept                       |                      🧪 Prototype                     |
 
 </div>
 
@@ -656,11 +781,15 @@ ID Masker is built for privacy-first document sharing, helping users protect sen
 
 # 🛠️ Tech Arsenal
 
+> A continuously evolving stack for building **AI-first**, **security-focused**, **full-stack**, and **research-driven** systems.
+
 </div>
+
+---
 
 <div align="center">
 
-### Languages
+## 🧬 Core Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -669,54 +798,362 @@ ID Masker is built for privacy-first document sharing, helping users protect sen
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### AI / ML / Deep Learning
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 AI / ML / Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00D9FF?style=for-the-badge)
+![Faster R--CNN](https://img.shields.io/badge/Faster_R--CNN-7B2FBE?style=for-the-badge)
+![VGG16](https://img.shields.io/badge/VGG16-FF6B35?style=for-the-badge)
+![ResNet--50](https://img.shields.io/badge/ResNet--50-00ACC1?style=for-the-badge)
 ![Federated Learning](https://img.shields.io/badge/Federated_Learning-FF4500?style=for-the-badge)
-
-### GenAI / Edge / Quantum
-
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Llama-3](https://img.shields.io/badge/Llama--3-412991?style=for-the-badge\&logo=meta\&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion+LoRA-FF6B35?style=for-the-badge)
-![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow_Quantum-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-4CAF50?style=for-the-badge)
 ![TinyML](https://img.shields.io/badge/TinyML-00ACC1?style=for-the-badge)
 
-### Cybersecurity
+</div>
 
-![ASCON](https://img.shields.io/badge/ASCON_Crypto-B71C1C?style=for-the-badge)
+---
+
+<div align="center">
+
+## 🧠 GenAI / RAG / Agentic AI
+
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama--3-412991?style=for-the-badge\&logo=meta\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-7B2FBE?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B35?style=for-the-badge)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge)
+
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion+LoRA-FF6B35?style=for-the-badge)
+![Wav2Lip](https://img.shields.io/badge/Wav2Lip-7B2FBE?style=for-the-badge)
+![TTS](https://img.shields.io/badge/Text--to--Speech-00ACC1?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-111827?style=for-the-badge)
+![Bhashini](https://img.shields.io/badge/Bhashini_API-138808?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-00D9FF?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚛️ Quantum / Edge / Advanced AI
+
+![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow_Quantum-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-4CAF50?style=for-the-badge)
+![Quantum ML](https://img.shields.io/badge/Quantum_Machine_Learning-7B2FBE?style=for-the-badge)
+![Hybrid AI](https://img.shields.io/badge/Hybrid_Quantum--Classical_AI-00D9FF?style=for-the-badge)
+![Edge AI](https://img.shields.io/badge/Edge_AI-111827?style=for-the-badge)
+![On Device AI](https://img.shields.io/badge/On--Device_AI-00ACC1?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
+![IoT AI](https://img.shields.io/badge/IoT_AI-00897B?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔐 Cybersecurity / Privacy / Trust Systems
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
 ![TOR Analysis](https://img.shields.io/badge/TOR_Analysis-7E57C2?style=for-the-badge)
-![IoT Security](https://img.shields.io/badge/IoT_Security-00897B?style=for-the-badge)
 ![Cyber Forensics](https://img.shields.io/badge/Cyber_Forensics-37474F?style=for-the-badge)
-![ZK-SNARKs](https://img.shields.io/badge/ZK--SNARKs_Halo2-7B2FBE?style=for-the-badge)
+![IoT Security](https://img.shields.io/badge/IoT_Security-00897B?style=for-the-badge)
+![ASCON](https://img.shields.io/badge/ASCON_Crypto-B71C1C?style=for-the-badge)
+![PII Redaction](https://img.shields.io/badge/PII_Detection_&_Redaction-00D9FF?style=for-the-badge)
+![Deepfake Defense](https://img.shields.io/badge/Voice_Deepfake_Defense-7B2FBE?style=for-the-badge)
+![Vishing Defense](https://img.shields.io/badge/Vishing_Defense-FF4500?style=for-the-badge)
 
-### Web / Backend / Database
+![ZK-SNARKs](https://img.shields.io/badge/ZK--SNARKs_Halo2-7B2FBE?style=for-the-badge)
+![Digital Identity](https://img.shields.io/badge/Decentralized_Identity-0033AD?style=for-the-badge)
+![Blockchain Audit](https://img.shields.io/badge/Blockchain_Audit_Trails-F7931A?style=for-the-badge)
+![Privacy AI](https://img.shields.io/badge/Privacy--Preserving_AI-111827?style=for-the-badge)
+![Federated Security](https://img.shields.io/badge/Federated_Security-FF4500?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-B71C1C?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Frontend / Backend / Full-Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+![PHP Backend](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth_Flows-00D9FF?style=for-the-badge)
+![Admin Panels](https://img.shields.io/badge/Admin_Panels-7B2FBE?style=for-the-badge)
+![Dashboard UI](https://img.shields.io/badge/Dashboard_UI-111827?style=for-the-badge)
+![Excel Upload](https://img.shields.io/badge/Excel_Upload_Workflows-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗄️ Databases / Vector DB / Graph DB
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-7B2FBE?style=for-the-badge)
+![Knowledge Graph](https://img.shields.io/badge/Knowledge_Graph-00D9FF?style=for-the-badge)
+![SQL Design](https://img.shields.io/badge/SQL_Schema_Design-4479A1?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-111827?style=for-the-badge)
 
-### Cloud / Blockchain / Tools
+</div>
+
+---
+
+<div align="center">
+
+## ☁️ Cloud / Deployment / Hosting
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Intel oneAPI](https://img.shields.io/badge/Intel_oneAPI-0071C5?style=for-the-badge\&logo=intel\&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge\&logo=intel\&logoColor=white)
-![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge\&logo=cardano\&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge\&logo=polygon\&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge\&logo=hostinger\&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-00D9FF?style=for-the-badge)
+![Web Hosting](https://img.shields.io/badge/Web_Hosting-111827?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment_Pipelines-7B2FBE?style=for-the-badge)
+![Google AdSense](https://img.shields.io/badge/Google_AdSense-4285F4?style=for-the-badge\&logo=googleadsense\&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+## ⛓️ Blockchain / Web3 / Decentralized Systems
+
+![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge\&logo=cardano\&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge\&logo=polygon\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![CIP-68](https://img.shields.io/badge/CIP--68_Data_Bound_Assets-0033AD?style=for-the-badge)
+![Atala PRISM](https://img.shields.io/badge/Atala_PRISM_DID-7B2FBE?style=for-the-badge)
+![Halo2](https://img.shields.io/badge/Halo2_zk--SNARKs-7B2FBE?style=for-the-badge)
+![Circom](https://img.shields.io/badge/Circom-FF4500?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-0033AD?style=for-the-badge)
+![Milkomeda](https://img.shields.io/badge/Milkomeda-8247E5?style=for-the-badge)
+![Wormhole](https://img.shields.io/badge/Wormhole_Cross--Chain-111827?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
+![Terminal](https://img.shields.io/badge/Terminal-111827?style=for-the-badge\&logo=windowsterminal\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+![Figma](https://img.shields.io/badge/Figma-Design_Tool-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Visual_Design-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown_Docs-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+![README Design](https://img.shields.io/badge/README_Engineering-00D9FF?style=for-the-badge)
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-7B2FBE?style=for-the-badge)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-FF6B35?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Stack Intelligence Map
+
+</div>
+
+```txt
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                         NAYANBECS24 — STACK INTELLIGENCE                       ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  AI Core           : TensorFlow · PyTorch · Keras · OpenCV · RAG · LangChain   ║
+║  Security Layer    : TOR Analysis · ASCON · PII Redaction · Cyber Forensics    ║
+║  GenAI Layer       : Llama-3 · GPT-4o · Stable Diffusion · Wav2Lip · TTS       ║
+║  Full-Stack Layer  : React · Flask · FastAPI · PHP · MySQL · Tailwind          ║
+║  Data Layer        : MySQL · MongoDB · Neo4j · Pinecone · Knowledge Graphs     ║
+║  Cloud Layer       : Google Cloud · Intel oneAPI · OpenVINO · Web Hosting      ║
+║  Web3 Layer        : Cardano · Polygon · Halo2 · Circom · Atala PRISM          ║
+║  DevOps Layer      : Git · GitHub Actions · XAMPP · Apache · Postman           ║
+║  Builder Layer     : Documentation · Architecture · Demos · Storytelling       ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## ⚙️ Engineering Operating System
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🧠 Think
+
+Problem framing
+User flow
+Threat model
+Data flow
+Architecture map
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🛠️ Build
+
+Prototype
+Backend
+Frontend
+Model pipeline
+Integration
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 Ship
+
+Demo
+README
+Deployment
+Pitch
+Iteration
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎓 Certifications & Professional Credentials
+
+</div>
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                   CERTIFICATIONS & CREDENTIALS  —  2025–2026                   ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  🏛️  Innovation Ambassador — Advanced Level          MIC & AICTE               ║
+║  🏛️  Innovation Ambassador — Foundation Level        MIC & AICTE               ║
+║  🌐  Google Ambassador                               Google Student Programs    ║
+║  💻  Full Stack Software Development (20 hrs)        Vinayaka Mission's        ║
+║      Certified Aug–Oct 2025                                                    ║
+║  🔧  RF Design-to-Code with Antigravity & Stitch MCP Google Developer Program  ║
+║  🗄️  From SQL to MongoDB Document Model              MongoDB                   ║
+║  🏆  Netrix 2025 Certification                       Netrix                    ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+![Innovation Ambassador](https://img.shields.io/badge/Innovation_Ambassador-Advanced_Level-00D9FF?style=for-the-badge\&logo=academia\&logoColor=white)
+![Innovation Ambassador](https://img.shields.io/badge/Innovation_Ambassador-Foundation_Level-7B2FBE?style=for-the-badge\&logo=academia\&logoColor=white)
+![Google Ambassador](https://img.shields.io/badge/Google_Ambassador-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-20hrs-00D9FF?style=for-the-badge\&logo=stackshare\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Certified-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Google Dev](https://img.shields.io/badge/Google_Developer_Program-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Ambassador Profile
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+## 🌐 Google Ambassador
+
+**Google Student & Developer Programs**
+`2025 – Present`
+
+* Promoting Google technologies within student community
+* Cloud, AI, Web, and emerging tech peer-learning
+* Engaging developers in the Google ecosystem
+* Running workshops and awareness sessions
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+## 🏛️ Innovation Ambassador
+
+**Ministry of Education Innovation Cell (MIC) & AICTE**
+`2025`
+
+* Certified at **Advanced + Foundation Levels**
+* Fostering innovation and entrepreneurship in academia
+* Design thinking and startup culture advocacy
+* Supporting Institution Innovation Council initiatives
+
+![MIC](https://img.shields.io/badge/MIC-Ministry_of_Education-FF6B35?style=flat-square)
+![AICTE](https://img.shields.io/badge/AICTE_Certified-B71C1C?style=flat-square)
+![IIC](https://img.shields.io/badge/Institution_Innovation_Council-00D9FF?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -739,6 +1176,17 @@ ID Masker is built for privacy-first document sharing, helping users protect sen
 <br/>
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NAYANBECS24\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=6\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAYANBECS24&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAYANBECS24&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAYANBECS24&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NAYANBECS24&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAYANBECS24&theme=tokyonight&utcOffset=5.5" height="160em"/>
 
 </div>
 
@@ -768,9 +1216,9 @@ ID Masker is built for privacy-first document sharing, helping users protect sen
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NAYANBECS24/NAYANBECS24/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</div>
+> The snake appears after `.github/workflows/snake.yml` runs successfully.
 
-> Note: The snake image will appear only after the workflow in `.github/workflows/snake.yml` runs successfully.
+</div>
 
 ---
 
@@ -791,11 +1239,12 @@ class Nayan2026:
     @property
     def active_builds(self):
         return {
-            "SUTRADHAR": "GenAI contextual tutor for rural Bharat",
-            "SAMVAAD-IQ": "Crime analytics and police intelligence platform",
-            "NutriLens": "AI food and health coaching app",
-            "AEGIS": "GenAI cybersecurity guardrail platform",
-            "EchoShield": "AI voice deepfake and vishing defense"
+            "SUTRADHAR"       : "GenAI contextual tutor for rural Bharat",
+            "SAMVAAD-IQ"      : "Crime analytics and police intelligence platform",
+            "Postmortem Pilot": "Autonomous AI incident investigation agent (GCP)",
+            "NutriLens"       : "AI food and health coaching app",
+            "AEGIS"           : "GenAI cybersecurity guardrail platform",
+            "EchoShield"      : "AI voice deepfake and vishing defense"
         }
 
     @property
@@ -833,11 +1282,11 @@ print(me.philosophy())
 
 <div align="center">
 
-| 🚀 Product                       | 🔧 Stack                            | 📊 Status |                              🔗                             |
-| -------------------------------- | ----------------------------------- | :-------: | :---------------------------------------------------------: |
-| 💼 **JobDham.in**                | PHP · MySQL · Web Hosting · AdSense |  🟢 Live  |                 [Visit](https://jobdham.in)                 |
-| 📊 **Result Analyzer**           | PHP · MySQL · Excel Analytics       |  🟢 Live  |     [Visit](https://resultanalyzer.infinityfreeapp.com)     |
-| 🏦 **Eduooze School of Banking** | HTML · CSS · PHP · MySQL            |  🟢 Live  | [Visit](https://eduoozeschoolofbanking.infinityfreeapp.com) |
+| 🚀 Product                                | 🔧 Stack                            |       📊 Status       |                              🔗                             |
+| ----------------------------------------- | ----------------------------------- | :-------------------: | :---------------------------------------------------------: |
+| 💼 **JobDham.in** — Job Portal            | PHP · MySQL · Web Hosting · AdSense | 🟢 Revenue-Generating |                 [Visit](https://jobdham.in)                 |
+| 📊 **Result Analyzer** — Academic Portal  | PHP · MySQL · Excel Analytics       |    🟢 Champion AVIT   |     [Visit](https://resultanalyzer.infinityfreeapp.com)     |
+| 🏦 **Eduooze School of Banking** — EdTech | HTML · CSS · PHP · MySQL            |        🟢 Live        | [Visit](https://eduoozeschoolofbanking.infinityfreeapp.com) |
 
 </div>
 
@@ -871,34 +1320,41 @@ print(me.philosophy())
 </div>
 
 ```txt
-NAYANBECS24 PROJECT UNIVERSE
+NAYANBECS24  —  PROJECT UNIVERSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AI + Education
- └── Project SUTRADHAR
+ 🧠  AI + Education
+      └── Project SUTRADHAR (GenAI · Bhashini · Llama-3)
 
-AI + Cybersecurity
- ├── TOR Sentinel
- ├── EchoShield
- ├── AEGIS
- ├── Q-Shield
- └── ID Masker
+ 🔐  AI + Cybersecurity
+      ├── TOR Sentinel      (Federated Learning · Privacy AI)
+      ├── EchoShield        (Voice Deepfake · TinyML)
+      ├── AEGIS             (GenAI Guardrail · GhostGuard)
+      ├── Q-Shield          (Quantum-Classical · Ransomware)
+      └── ID Masker         (PII Detection · Faster R-CNN)
 
-AI + Health
- ├── NutriLens
- └── Sanjivani
+ 🏥  AI + Health
+      ├── NutriLens         (GCP · Food Recognition)
+      └── Sanjivani         (Edge AI · DID · Offline-First)
 
-AI + Agriculture / Sustainability
- ├── AgriSmart 2.0
- ├── GridWeaver
- └── BioForge Dustbin
+ 🌾  AI + Agriculture & Sustainability
+      ├── AgriSmart 2.0     (Precision Farming · Science Day 2026)
+      ├── GridWeaver        (ESP32-S3 · P2P Energy Mesh)
+      └── BioForge Dustbin  (AI Waste · Biogas)
 
-Full-Stack Products
- ├── Result Analyzer
- ├── Eduooze
- └── JobDham.in
+ 🛣️  AI + Civic / Safety
+      ├── SurakshaAI        (Road Safety · ZK Proof · LENS-Net)
+      └── BharatRealEstateAI (RAG · 12 Languages · Intel oneAPI)
 
-Blockchain / Web3
- └── SOVARTH / Sovereign Nexus
+ 🌐  Full-Stack Products (Live)
+      ├── Result Analyzer   (PHP · MySQL · SGPA/CGPA)
+      ├── Eduooze           (PHP · MySQL · Banking EdTech)
+      └── JobDham.in        (PHP · MySQL · AdSense · Revenue)
+
+ ⛓️  Blockchain / Web3
+      └── SOVARTH           (Cardano · ZK · DID · DeFi)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -912,19 +1368,13 @@ Blockchain / Web3
 ```txt
 Every strong repository should have:
 
-README.md
-Architecture Diagram
-Setup Instructions
-Tech Stack
-Features
-Screenshots
-Demo Video
-Folder Structure
-Environment Variables Example
-API Documentation
-Future Roadmap
-License
-Contribution Guide
+  ✅  README.md                 ✅  Architecture Diagram
+  ✅  Setup Instructions        ✅  Tech Stack
+  ✅  Features List             ✅  Screenshots
+  ✅  Demo Video / GIF          ✅  Folder Structure
+  ✅  .env.example              ✅  API Documentation
+  ✅  Future Roadmap            ✅  License
+  ✅  Contribution Guide        ✅  Issue / PR Templates
 ```
 
 ---
@@ -963,6 +1413,72 @@ Contribution Guide
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+# 🚀 Developer Growth Roadmap
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Current Focus
+
+* AI security systems
+* GenAI product development
+* Full-stack product deployment
+* Better GitHub documentation
+* Architecture diagrams
+* Research-style project writing
+* Clean backend and API design
+* Cybersecurity automation
+
+</td>
+<td width="50%" valign="top">
+
+## Next Level Goals
+
+* Production-grade AI deployment
+* Cloud-native ML systems
+* Advanced RAG and agentic workflows
+* Edge AI optimization
+* Threat intelligence automation
+* Stronger open-source contribution
+* Research paper publication
+* More polished public repositories
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📌 Repository Quality Checklist
+
+</div>
+
+```txt
+Every serious repository should communicate:
+
+✅ What problem it solves
+✅ Who it is for
+✅ What features it has
+✅ How the system works
+✅ What tech stack is used
+✅ How to install and run it
+✅ What the folder structure means
+✅ What the architecture looks like
+✅ What the current limitations are
+✅ What the future roadmap is
+✅ Screenshots or demo video
+✅ Clear license and contribution guide
+```
 
 ---
 
@@ -1012,6 +1528,7 @@ Open to building real-world full-stack products, AI tools, automation systems, a
 [![GitHub](https://img.shields.io/badge/GitHub-NAYANBECS24-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NAYANBECS24)
 [![Gmail](https://img.shields.io/badge/Gmail-nayankumar9987-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nayankumar9987@gmail.com)
 [![JobDham](https://img.shields.io/badge/JobDham.in-00D9FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jobdham.in)
+[![Result Analyzer](https://img.shields.io/badge/Result_Analyzer-7B2FBE?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://resultanalyzer.infinityfreeapp.com)
 
 <br/>
 
@@ -1023,10 +1540,10 @@ Open to building real-world full-stack products, AI tools, automation systems, a
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D1117&height=135&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D1117&height=160&section=footer&animation=fadeIn&text=Hack%20for%20Good.%20Build%20for%20Bharat.&fontSize=20&fontColor=ffffff&fontAlignY=55"/>
 
-### `Security isn't a feature. It's the foundation.`
+**`Security isn't a feature. It's the foundation.`**
 
-**Nayan · NAYANBECS24**
+*Nayan · NAYANBECS24 · Chennai, India · Updated June 2026*
 
 </div>
