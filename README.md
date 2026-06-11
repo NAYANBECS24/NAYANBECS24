@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NAYANBECS24\&style=for-the-badge\&color=00D9FF\&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/NAYANBECS24?style=for-the-badge\&color=7B2FBE\&labelColor=0D1117\&label=Followers)](https://github.com/NAYANBECS24)
 [![GitHub Stars](https://img.shields.io/github/stars/NAYANBECS24?style=for-the-badge\&color=00D9FF\&labelColor=0D1117\&label=Stars)](https://github.com/NAYANBECS24)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nayan-nayan)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/nayan-nayan-69069233b)
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nayankumar9987@gmail.com)
 
 <br/>
